@@ -52,3 +52,9 @@ and commission_pct is not null;
 select * from employees
 where salary >= 10000
 or JOB_ID like'%MAN%';
+
+
+
+
+
+
